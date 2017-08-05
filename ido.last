@@ -1,0 +1,220 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/luminglv/Files/qunar/答辩/" . "2016-11/")
+ ("/Users/luminglv/Desktop/rt_linkage/case-more/" . "env/")
+ ("/Users/luminglv/Desktop/rt_linkage/" . "meituan/")
+ ("/Users/luminglv/Desktop/" . "rt_linkage/")
+ ("/Users/luminglv/Files/qunar/晋升/" . "2016-11/")
+ ("/Users/luminglv/Files/qunar/" . "答辩/")
+ ("/Users/luminglv/tt/" . "openCV/")
+ ("/Users/luminglv/org/" . "jekyll/")
+ ("/" . "Users/")
+ ("/Users/" . "luminglv/")
+ ("/Users/luminglv/github/OJ/" . "leetcode/")
+ ("/Users/luminglv/q/luming.lv_gitlab/offline-script/" . "bangdan_highstar_discount/")
+ ("/Users/luminglv/q/luming.lv_gitlab/" . "offline-script/")
+ ("/Users/luminglv/github/Alfred-Workflow/" . "kill_process_by_keyword/")
+ ("/Users/luminglv/github/" . "OJ/")
+ ("/Users/luminglv/q/idea_project/mobile_hotel/parse_git/offline-script/script/" . "sh_pack/")
+ ("/Users/luminglv/q/idea_project/mobile_hotel/parse_git/offline-script/" . "script/")
+ ("/Users/luminglv/q/idea_project/mobile_hotel/parse_git/" . "offline-script/")
+ ("/Users/luminglv/q/idea_project/mobile_hotel/" . "parse_git/")
+ ("/Users/luminglv/q/idea_project/" . "mobile_hotel/")
+ ("/Users/luminglv/q/" . "luming.lv_gitlab/")
+ ("/Users/luminglv/Files/llm/" . "markdown_note/")
+ ("/Users/luminglv/Files/" . "llm/")
+ ("/Users/luminglv/" . "Files/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/luminglv/Files/llm/markdown_note/"
+ "/Users/luminglv/Files/llm/"
+ "/Users/luminglv/.emacs.d/"
+ "/Users/luminglv/Desktop/"
+ "/Users/luminglv/Files/qunar/答辩/2016-11/"
+ "/Users/luminglv/q/luming.lv_gitlab/offline-script/bangdan_highstar_discount/"
+ "/Users/luminglv/"
+ "~/q/luming.lv_gitlab/offline-script/rt_meituan/"
+ "/Users/luminglv/q/luming.lv_gitlab/offline-script/rt_meituan/"
+ "/Users/luminglv/q/luming.lv_gitlab/offline-script/"
+ "/Users/luminglv/Desktop/rt_linkage/meituan/"
+ "/Users/luminglv/Desktop/rt_linkage/case-more/env/"
+ "/Users/luminglv/q/luming.lv_gitlab/offline-script/medal_tuiguang/"
+ "/Users/luminglv/q/luming.lv_gitlab/offline-script/hotel-travel-type-tag/"
+ "/Users/luminglv/q/luming.lv_gitlab/offline-script/hotel-img-feature/"
+ "/Users/luminglv/q/luming.lv_gitlab/offline-script/room-type/"
+ "/Users/luminglv/q/luming.lv_gitlab/offline-script/tuiguang_auto_level/"
+ "/Users/luminglv/github/OJ/leetcode/"
+ "/Users/luminglv/org/"
+ "/Users/luminglv/github/emacs_cpp_completion/"
+ "/Users/luminglv/tt/"
+ "/Users/luminglv/Files/qunar/晋升/2016-11/"
+ "/Users/luminglv/org/jekyll/"
+ "/Users/luminglv/q/luming.lv_gitlab/offline-script/hotel_label_data/"
+ "~/github/OJ/leetcode/"
+ "/Users/luminglv/github/bashrc/"
+ "/Users/luminglv/q/luming.lv_gitlab/offline-script/host_hotel/"
+ "/Users/luminglv/github/Alfred-Workflow/kill_process_by_keyword/"
+ "/Users/luminglv/github/Alfred-Workflow/youdao_translate/"
+ "/Users/luminglv/q/idea_project/mobile_hotel/parse_git/offline-script/script/sh_pack/"
+ "/Users/luminglv/q/idea_project/mobile_hotel/parse_git/offline-script/script/bangdan/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "榜单优化1.org"
+ "tmp_.org"
+ "stock.org"
+ "多次浏览促进下单.org"
+ "resume.org"
+ "spring-note.org"
+ "user_feature_refactor.org"
+ "init.el"
+ "gbdt.org"
+ "presentation-slide.org"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/luminglv/Files/llm/markdown_note/" (22892 13187 0 0) "跨城搜索无结果_国际.org~" "跨城搜索无结果_国际.org" "跨城搜索无结果_国际.html~" "跨城搜索无结果_国际.html" "浏览历史 && 酒店收藏 优化项目.md" "榜单优化1.org" "榜单优化.org" "榜单优化.md" "收益.md" "推广系统梳理.md" "推广位策略优化.md" "报价qps放大.md" "异地空搜排序策略.org" "客栈频道RANK民宿增加权重.org" "实时筛选model不理想原因分析.md" "实时特征二期.md" "多次浏览促进下单.org" "user_feature_refactor.org" "travel_tag_update.org" "tmp_.org" "stock.org" "spring-note.org" "search request隔离二期.md" "rt_linkage.org" "reveal-export-test.org" "reveal-export-test.html" "resume_llm.md" "resume.md" "rank-sort-img-feature.org" "rank-search_refactor.md" "rank-search-switch.org~" "rank-search-switch.org" "rank-search-sort-feature-summerize.org~" "rank-search-sort-feature-summerize.org" "rank-search-performance-analyse.org~" "rank-search-performance-analyse.org_archive" "rank-search-performance-analyse.org" "rank-search-performance-analyse.html~" "rank-search-performance-analyse.html" "rank-search-api-key.org" "promote_presentation.org~" "promote_presentation.org" "promote_presentation.html~" "promote_presentation.html" "presentation_outline.tex" "presentation_outline.org~" "presentation_outline.org" "presentation_outline.html~" "presentation_outline.html" "position_area_guide_improvement.org" "openCV 银行卡.md" "mobile-rank-search中的一些关键监控.md" "llm-qunar-work-handover.org~" "llm-qunar-work-handover.org" "jvm.org~" "jvm.org" "java-concurrency.org" "hprice代码.md" "hprice-note.org" "elisp_note.org~" "elisp_note.org" "elisp_note.html~" "elisp_note.html" "DZS-9725_特金银推广位优化.org" "DZS-9721-galaxy接口迁移2期.org" "discover_rank_common_dependency.org~" "discover_rank_common_dependency.org" "discover_host_hotel处理逻辑.org~" "discover_host_hotel处理逻辑.org" "bargin_price_filter_improve.org~" "bargin_price_filter_improve.org" "bangdan-special-stragety.org" "2016-08-03_ml_note.md" ".DS_Store" "#榜单优化.org#" "#tmp_.org#" "../" "./")
+
+ ("/Users/luminglv/" (22888 32740 0 0) "ycm_build/" "tt.py" "tt/" "tasks/" "reveal-js/" "q/" "PycharmProjects/" "Public/" "Pictures/" "org/" "openCV/" "Music/" "Movies/" "mbox" "Library/" "lg.sh" "jq/" "jprofiler_images/" "java_error_in_idea_28652.log" "github/" "Files/" "Dropbox/" "Downloads/" "Documents/" "Desktop/" "cLion/" "Calibre 书库/" "Applications/" ".zshrc" ".zsh_history" ".zsh-update" ".zcompdump-luming.lv的MacBook Pro-5.2" ".zcompdump-luming.lv的MacBook Pro-5.0.8" ".zcompdump-luming.lv的MacBook Pro-5.0.5" ".vnc/" ".vimrc" ".viminfo" ".vim/" ".Trash/" ".subversion/" ".ssh/" ".srecode/" ".sonarlint/" ".semanticdb/" ".scala_history" ".python27_compiled/" ".PyCharm50/" ".PyCharm40/" ".oracle_jre_usage/" ".oh-my-zsh/" ".netbeans-derby/" ".matplotlib/" ".m2/" ".local/" ".lesshst" ".kdiff3rc" ".jprofiler9/" ".java_base.tag" ".IntelliJIdea15/" ".IntelliJIdea14/" ".ideaLibSources/" ".httpie/" ".gradle/" ".gitconfig" ".emacs.d/" ".eclipse/" ".dubbo/" ".DS_Store" ".dropbox/" ".cups/" ".config/" ".CFUserTextEncoding" ".CF89AA64" ".cache/" ".bashrc~" ".bashrc" ".bash_profile.macports-saved_2015-06-19_at_23:59:23" ".bash_profile" ".bash_history" ".atom/" ".android/" "#.bashrc#" "../" "./")
+
+ ("/Users/luminglv/Desktop/" (22888 32719 0 0) "重构_改善既有代码的设计[高清版].pdf" "重构-改善既有代码的设计_简体中文_.pdf" "软件开发沉思录 ThoughtWorks文集.pdf" "美团•大众点评offer-吕禄明.pdf" "直通车rank生效接口.docx" "榜单优化需求V1.1.docx" "数据库中间件设计文档.docx" "多次浏览促进下单V1.4.docx" "xgboost导读和实战.pdf" "vord2vec-2.0.1.pdf" "trebst.pdf" "tmp/" "tech/" "STUDENT_CN2.DMG" "Student" "resume_luming.lv_Java.pdf" "rank-common-DZS-13530_20170515_not_same_city_rerank-20170517.024300-1/" "Oscar Mayer Introduces the Wienerfleet.mp3" "MemoryAnalyzer-1.6.1.20161125-macosx.cocoa.x86_64.zip" "mat/" "luminglv" "kindle resouce/" "jzz/" "jvm_tools.pdf" "gbdt_.pdf" "GBDT.pdf" "gbdt.org" "GBDT.key" "gbdt.html" "gbdt/" "fnbot-07-00021.pdf" "files/" "bookmarks_2017_1_23.html" "bangdan_sync_mysql_to_hdfs.sh" "Atom.app/" "applescrip_test.scpt" "api2_citydata" "[PROGRAMMING][Working Effectively. with Legacy Code].mobi" ".localized" ".DS_Store" ".baozhuang_url.swp" ".#bangdan.conf" "../" "./")
+
+ ("/Users/luminglv/.emacs.d/" (22878 62187 0 0) "url/" "tutorial/" "Testing/" "src/" "snippets/" "smex-items" "jdee-server-dir/" "irony.bak/" "irony/" "init.el~" "init.el.bak" "init.el" "ido.last~" "ido.last" "Highlight-Indentation-for-Emacs/" "elpa/" "DartConfiguration.tcl" "CMakeFiles/" "CMakeCache.txt" "bookmarks" "auto-save-list/" "auto-java-complete/" "ac-comphist.dat" "abbrev_defs" ".org-id-locations" "../" "./")
+
+ ("/Users/luminglv/Files/llm/" (22835 64219 0 0) "resume.tex" "resume.org" "resume.html" "markdown_note/" "info.txt" "headshot/" "contacts.vcf" ".DS_Store" "#resume.org#" "../" "./")
+
+ ("/Users/luminglv/Files/qunar/答辩/2016-11/" (22818 62217 0 0) "附件2-技术评审工程代码汇总_luming.lv.docx" "附件2-技术评审工程代码汇总.docx" "附件2-技术评审工程代码汇总 2.pages" "附件1-员工晋升申请表_luming.lv.xlsx" "附件1-员工晋升申请表_2016_11.numbers" "附件1-员工晋升申请表.xlsx" "答辩_201611_luming.lv.pdf" "答辩_201611.key" "晋升答辩-大住宿事业部-沙学锋.pptx" "晋升答辩-大住宿事业部-沙学锋.pdf" "presentation-slide.org" "presentation-slide.html" "pic/" ".DS_Store" "../" "./")
+
+ ("/Users/luminglv/Files/qunar/答辩/" (22741 55034 0 0) "转正/" "ppt.png" "pic/" "2016-11/" "2016-08/" "2016-03/" ".DS_Store" "../" "./")
+
+ ("/Users/luminglv/Files/qunar/" (22806 27115 0 0) "请假申请说明-OA图解.docx" "苹果设备exchange邮箱配置.docx" "答辩/" "新参保材料/" "报销/" "work/" "offer/" "misc/" "KPI/" ".DS_Store" "../" "./")
+
+ ("/Users/luminglv/org/" (22801 33127 0 0) "tasks.org" "jekyll/" "from-mobile.org" "archive.org" "#archive.org#" "../" "./")
+
+ ("/Users/luminglv/q/luming.lv_gitlab/offline-script/rt_meituan/" (22738 12885 0 0) "single_wrapper.py" "room_type_raw_name.py" "refresh/" "meituan_detail_extract_uniq_clean_duplicate_room.py" "join_meituan_bed_type.py" "hotel_id_match_exam.py" "extract_info_from_meituan_raw.py" "data_prepare.sh" "bed_type_exam.py" "__init__.py" "../" "./")
+
+ ("~/q/luming.lv_gitlab/offline-script/rt_meituan/" (22738 12885 0 0) "single_wrapper.py" "room_type_raw_name.py" "refresh/" "meituan_detail_extract_uniq_clean_duplicate_room.py" "join_meituan_bed_type.py" "hotel_id_match_exam.py" "extract_info_from_meituan_raw.py" "data_prepare.sh" "bed_type_exam.py" "__init__.py" "../" "./")
+
+ ("/Users/luminglv/q/luming.lv_gitlab/offline-script/bangdan_highstar_discount/" (22792 16019 0 0) "valuable_discount_sync_mysql_to_hdfs.sh" "highstar_sync_mysql_to_hdfs.sh" "bangdan_sync_mysql_to_hdfs.sh" "../" "./")
+
+ ("/Users/luminglv/q/luming.lv_gitlab/offline-script/" (22792 14114 0 0) "zhekou_baofang/" "tuiguang_auto_level/" "tuiguang/" "test" "rt_meituan/" "room-type/" "realtime_filter/" "realtime_click/" "README.md" "medal_tuiguang/" "lm_reject_all/" "hotel_quality_score/" "hotel_label_data/" "hotel_black_list/" "hotel-travel-type-tag/" "hotel-img-feature/" "host_hotel/" "common/" "city_uv/" "bangdan_highstar_discount/" ".gitignore" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/luminglv/q/luming.lv_gitlab/" (22746 863 0 0) "offline-script/" "hotel-rank-parse/" ".DS_Store" "../" "./")
+
+ ("/Users/luminglv/q/luming.lv_gitlab/offline-script/hotel-img-feature/" (22738 3744 0 0) "room_type_ratio_segmentation.py" "img-data.sh" "img-count-segmentation.py" "hotel-img-order-stats.py" "drag_order_data.sh" "compute_room_type_with_img_ratio.py" "../" "./")
+
+ ("/Users/luminglv/q/luming.lv_gitlab/offline-script/hotel-travel-type-tag/" (22738 3788 0 0) "tt.py" "task.sh" "task.py" "../" "./")
+
+ ("/Users/" (22718 49442 0 0) "Shared/" "luminglv/" ".localized" "../" "./")
+
+ ("/Users/luminglv/q/luming.lv_gitlab/offline-script/room-type/" (22694 57159 0 0) "room-type-stats.py" "#room-type-stats.py#" "../" "./")
+
+ ("/Users/luminglv/Desktop/rt_linkage/case-more/env/" (22706 42800 0 0) "run.sh" "env_beijing_city_11035/" "env_beijing_city_10956/" "env_beijing_city_10218/" "../" "./")
+
+ ("/Users/luminglv/Desktop/rt_linkage/meituan/" (22720 64068 0 0) "single_wrapper.py" "meituan_single_wrapper_category_hotel_seqs.txt" "#single_wrapper.py#" "../" "./")
+
+ ("/Users/luminglv/Desktop/rt_linkage/" (22719 48348 0 0) "un_checked_room_type_data_20170303" "rt_node_sqls_beijing_hanting" "room_type_raw_to_judge" "room_type_raw_sqls_test" "meituan/" "hotelSeqs_test" "hotelSeqs_beijing_hanting" "hotels_info_china" "experiments.xlsx" "experiments.numbers" "data" "case-more/" "case/" "brand_hotels_info_new" "brand_hotel_china" ".DS_Store" "../" "./")
+
+ ("/Users/luminglv/Desktop/rt_linkage/case-more/" (22706 33989 0 0) "rt_node_sqls_beijing_hanting" "rt-node-beijing-hanting.tar" "rt-node-beijing-hanting/" "ROOT-jar-with-dependencies.jar" "room_type_raw_sqls_test" "room-type-raw-beijing-hanting.tar" "room-type-raw-beijing-hanting/" "hotelSeqs_beijing_hanting" "env/" "../" "./")
+
+ ("/Users/luminglv/q/luming.lv_gitlab/offline-script/medal_tuiguang/" (22489 1981 0 0) "sync_tuiguang.sh" "../" "./")
+
+ ("/Users/luminglv/Files/qunar/晋升/2016-11/" (22607 22565 0 0) "附件2-技术评审工程代码汇总_luming.lv.docx" "附件2-技术评审工程代码汇总.docx" "附件2-技术评审工程代码汇总 2.pages" "附件1-员工晋升申请表_luming.lv.xlsx" "附件1-员工晋升申请表_2016_11.numbers" "附件1-员工晋升申请表.xlsx" "答辩_201611_luming.lv.pdf" "答辩_201611.key" "晋升答辩-大住宿事业部-沙学锋.pptx" "晋升答辩-大住宿事业部-沙学锋.pdf" "presentation-slide.org" "presentation-slide.html" "pic/" ".DS_Store" "../" "./")
+
+ ("~/github/OJ/leetcode/" (22605 19759 0 0) "Word_Search.java" "Word Ladder.java" "Word Break.java" "Word Break II.java" "WiggleSubsequence.java" "Validate Binary Search Tree.cpp" "Valid_Sudoku.java" "Valid_Parentheses.java" "Valid Palindrome.java" "Valid Anagram.java" "UniquePaths.java" "Unique_Paths_II.java" "Unique_Paths.cpp" "Unique Binary Search Trees.cpp" "Unique Binary Search Trees II.java" "two_sum.java" "Triangle.java " "Trapping_Rain_Water.cpp" "Swap_Nodes_in_Pairs.cpp" "Surrounded Regions.java" "Sum Root to Leaf Numbers.cpp" "Sum of Left Leaves.java" "Subsets.java" "Subsets II.java" "Submission Details.java" "Submission Details.cpp" "String_to_Integer.java" "Sqrt_x.java" "Spiral_Matrix_II.java" "Spiral_Matrix.java" "Sort--List.cpp" "Single Number.cpp" "Simplify_Path.java" "Set_Matrix_Zeroes.java" "Search_Insert_Position.cpp" "Search_in_Rotated_Sorted_Array.java~" "Search_in_Rotated_Sorted_Array.java" "Search_for_a_Range.java" "Search_a_2D_Matrix.java" "Search-in-Rotated-Sorted-Array-II.java" "Same Tree.cpp" "Rotate_List.cpp" "Rotate_Image.java" "Roman_to_Integer.java" "Reverse_String.java" "Reverse_Integer.cpp" "Reverse Words in a String.java" "Reverse Vowels of a String.java" "Reverse Linked List II.cpp" "Restore IP Addresses.java" "Reorder List.cpp" "Remove_Nth_Node_From_End_of_List.cpp" "Remove_Element.cpp~" "Remove_Element.cpp" "Remove_Duplicates_from_Sorted_Array.cpp" "Remove-Duplicates-from-Sorted_List.cpp" "Remove-Duplicates-from-Sorted-List-II.cpp" "Remove-Duplicates-from-Sorted-Array-II.cpp" "Remove Linked List Elements.java" "Recover Binary Search Tree.java" "Ransom Note.java" "Pow_x_n.cpp" "Populating Next Right Pointers in Each Node.cpp" "Populating Next Right Pointers in Each Node II.cpp" "Plus_One.java" "Permutations_II.java" "Permutations.java" "PerfectSquares.java" "PathSumIII.java" "Path Sum.cpp" "Path Sum II.java" "Pascal's Triangle.java" "Pascal's Triangle II.java" "Partition List.cpp" "Partition Equal Subset Sum.java" "Palindrome_Number.cpp" "Palindrome Partitioning.java" "PacificAtlanticWaterFlow.java" "Odd Even Linked List.java" "Number_of_Segments_in_a_String.cpp" "Number of Islands.java" "Nim Game.java" "Next_Permutation.java~" "Next_Permutation.java" "N-Queens_II.java" "N-Queens.java" "Move Zeroes.java" "Minimum_Path_Sum.java" "Minimum_Moves_to_Equal_Array_Elements_II.cpp" "Minimum_Moves_to_Equal_Array_Elements.cpp" "Minimum-Window-Substring.java" "Minimum Size Subarray Sum.java" "Minimum Depth of Binary Tree.cpp" "Min Stack.cpp" "Merge_Two_Sorted_Lists.cpp" "Merge_k_Sorted_Lists.java" "Merge_Intervals.java" "Maximum_Subarray.cpp" "Maximum Product Subarray.cpp" "Maximum Depth of Binary Tree.cpp" "Majority Element.java" "LongestPalindrome.java" "LongestIncreasingSubsequence.java" "Longest_Substring_Without_Repeating_Characters.java" "Longest_Common_Prefix.java" "Longest Consecutive Sequence.java" "Linked List Cycle.cpp" "Linked List Cycle II.cpp" "Letter_Combinations_of_a_Phone_Number.java" "Length_of_Last_Word.cpp" "Largest Number.java" "KthSmallestElementInASortedMatrix.java" "Jump_Game.java" "Jump_Game.cpp" "Isomorphic Strings.java" "IslandPerimeter.java" "Is-Subsequence.java" "Invert Binary Tree.java" "Intersection of Two Linked Lists.java" "Intersection of Two Arrays.java" "Intersection of Two Arrays II.java" "IntegerBreak.java" "Insertion Sort List.cpp" "Insert Interval.java" "HouseRobberIII.java" "House Robber.java" "House Robber II.java" "Group_Anagrams.java" "GrayCode.java" "Generate_Parentheses.java" "Gas Station.java" "Flatten Binary Tree to Linked List.cpp" "FizzBuzz.java" "First_Missing_Positive.cpp" "First Unique Character in a String.java" "Find the Difference.java" "Find Peak Element.java" "Find Minimum in Rotated Sorted Array.java" "Find Minimum in Rotated Sorted Array II.java" "Factorial Trailing Zeroes.java" "Excel Sheet Column Title.java" "Excel Sheet Column Number.java" "Evaluate Reverse Polish Notation.java" "Edit_Distance.java" "Distinct Subsequences.java" "Delete Node in a Linked List.java" "DecodeString.java" "Decode Ways.java" "CountNumbersWithUniqueDigits.java" "Count_and_Say.java" "Copy List with Random Pointer.cpp" "Convert Sorted List to Binary Search Tree.cpp" "Convert Sorted Array to Binary Search Tree.java" "Contains Duplicate.java" "Container_With_Most_Water.java" "Construct Binary Tree from Preorder and Inorder Traversal.java" "Construct Binary Tree from Inorder and Postorder Traversal.java" "Compare Version Numbers.java" "CombinationSumIV.java" "CombinationSumIII.java" "CombinationSumII.java" "CombinationSum.java" "Combinations.java" "Combination_Sum_II.java" "Combination_Sum.java" "Clone Graph.java" "Climbing_Stairs.cpp" "BurstBalloons.java" "BinaryWatch.java" "Binary Tree Zigzag Level Order Traversal.java" "Binary Tree Right Side View.java" "Binary Tree Preorder Traversal.java" "Binary Tree Postorder-Traversal.java" "Binary Tree Paths.java" "Binary Tree Maximum Path Sum.cpp" "Binary Tree Level Order Traversal.java" "Binary Tree Level Order Traversal II.java" "Binary Tree Inorder Traversal.java" "Binary Search Tree Iterator.java" "BestTimetoBuyandSellStock.java" "Best Time to Buy and Sell Stock.java" "Best Time to Buy and Sell Stock II.java" "BattleshipsInABoard.java" "Balanced Binary Tree.cpp" "AssignCookies.cpp" "ArithmeticSlices.java" "add_to_numbers.java" "Add_Binary.java" "a.out" ".clang_complete" "../" "./")
+
+ ("/Users/luminglv/github/OJ/leetcode/" (22605 19759 0 0) "Word_Search.java" "Word Ladder.java" "Word Break.java" "Word Break II.java" "WiggleSubsequence.java" "Validate Binary Search Tree.cpp" "Valid_Sudoku.java" "Valid_Parentheses.java" "Valid Palindrome.java" "Valid Anagram.java" "UniquePaths.java" "Unique_Paths_II.java" "Unique_Paths.cpp" "Unique Binary Search Trees.cpp" "Unique Binary Search Trees II.java" "two_sum.java" "Triangle.java " "Trapping_Rain_Water.cpp" "Swap_Nodes_in_Pairs.cpp" "Surrounded Regions.java" "Sum Root to Leaf Numbers.cpp" "Sum of Left Leaves.java" "Subsets.java" "Subsets II.java" "Submission Details.java" "Submission Details.cpp" "String_to_Integer.java" "Sqrt_x.java" "Spiral_Matrix_II.java" "Spiral_Matrix.java" "Sort--List.cpp" "Single Number.cpp" "Simplify_Path.java" "Set_Matrix_Zeroes.java" "Search_Insert_Position.cpp" "Search_in_Rotated_Sorted_Array.java~" "Search_in_Rotated_Sorted_Array.java" "Search_for_a_Range.java" "Search_a_2D_Matrix.java" "Search-in-Rotated-Sorted-Array-II.java" "Same Tree.cpp" "Rotate_List.cpp" "Rotate_Image.java" "Roman_to_Integer.java" "Reverse_String.java" "Reverse_Integer.cpp" "Reverse Words in a String.java" "Reverse Vowels of a String.java" "Reverse Linked List II.cpp" "Restore IP Addresses.java" "Reorder List.cpp" "Remove_Nth_Node_From_End_of_List.cpp" "Remove_Element.cpp~" "Remove_Element.cpp" "Remove_Duplicates_from_Sorted_Array.cpp" "Remove-Duplicates-from-Sorted_List.cpp" "Remove-Duplicates-from-Sorted-List-II.cpp" "Remove-Duplicates-from-Sorted-Array-II.cpp" "Remove Linked List Elements.java" "Recover Binary Search Tree.java" "Ransom Note.java" "Pow_x_n.cpp" "Populating Next Right Pointers in Each Node.cpp" "Populating Next Right Pointers in Each Node II.cpp" "Plus_One.java" "Permutations_II.java" "Permutations.java" "PerfectSquares.java" "PathSumIII.java" "Path Sum.cpp" "Path Sum II.java" "Pascal's Triangle.java" "Pascal's Triangle II.java" "Partition List.cpp" "Partition Equal Subset Sum.java" "Palindrome_Number.cpp" "Palindrome Partitioning.java" "PacificAtlanticWaterFlow.java" "Odd Even Linked List.java" "Number_of_Segments_in_a_String.cpp" "Number of Islands.java" "Nim Game.java" "Next_Permutation.java~" "Next_Permutation.java" "N-Queens_II.java" "N-Queens.java" "Move Zeroes.java" "Minimum_Path_Sum.java" "Minimum_Moves_to_Equal_Array_Elements_II.cpp" "Minimum_Moves_to_Equal_Array_Elements.cpp" "Minimum-Window-Substring.java" "Minimum Size Subarray Sum.java" "Minimum Depth of Binary Tree.cpp" "Min Stack.cpp" "Merge_Two_Sorted_Lists.cpp" "Merge_k_Sorted_Lists.java" "Merge_Intervals.java" "Maximum_Subarray.cpp" "Maximum Product Subarray.cpp" "Maximum Depth of Binary Tree.cpp" "Majority Element.java" "LongestPalindrome.java" "LongestIncreasingSubsequence.java" "Longest_Substring_Without_Repeating_Characters.java" "Longest_Common_Prefix.java" "Longest Consecutive Sequence.java" "Linked List Cycle.cpp" "Linked List Cycle II.cpp" "Letter_Combinations_of_a_Phone_Number.java" "Length_of_Last_Word.cpp" "Largest Number.java" "KthSmallestElementInASortedMatrix.java" "Jump_Game.java" "Jump_Game.cpp" "Isomorphic Strings.java" "IslandPerimeter.java" "Is-Subsequence.java" "Invert Binary Tree.java" "Intersection of Two Linked Lists.java" "Intersection of Two Arrays.java" "Intersection of Two Arrays II.java" "IntegerBreak.java" "Insertion Sort List.cpp" "Insert Interval.java" "HouseRobberIII.java" "House Robber.java" "House Robber II.java" "Group_Anagrams.java" "GrayCode.java" "Generate_Parentheses.java" "Gas Station.java" "Flatten Binary Tree to Linked List.cpp" "FizzBuzz.java" "First_Missing_Positive.cpp" "First Unique Character in a String.java" "Find the Difference.java" "Find Peak Element.java" "Find Minimum in Rotated Sorted Array.java" "Find Minimum in Rotated Sorted Array II.java" "Factorial Trailing Zeroes.java" "Excel Sheet Column Title.java" "Excel Sheet Column Number.java" "Evaluate Reverse Polish Notation.java" "Edit_Distance.java" "Distinct Subsequences.java" "Delete Node in a Linked List.java" "DecodeString.java" "Decode Ways.java" "CountNumbersWithUniqueDigits.java" "Count_and_Say.java" "Copy List with Random Pointer.cpp" "Convert Sorted List to Binary Search Tree.cpp" "Convert Sorted Array to Binary Search Tree.java" "Contains Duplicate.java" "Container_With_Most_Water.java" "Construct Binary Tree from Preorder and Inorder Traversal.java" "Construct Binary Tree from Inorder and Postorder Traversal.java" "Compare Version Numbers.java" "CombinationSumIV.java" "CombinationSumIII.java" "CombinationSumII.java" "CombinationSum.java" "Combinations.java" "Combination_Sum_II.java" "Combination_Sum.java" "Clone Graph.java" "Climbing_Stairs.cpp" "BurstBalloons.java" "BinaryWatch.java" "Binary Tree Zigzag Level Order Traversal.java" "Binary Tree Right Side View.java" "Binary Tree Preorder Traversal.java" "Binary Tree Postorder-Traversal.java" "Binary Tree Paths.java" "Binary Tree Maximum Path Sum.cpp" "Binary Tree Level Order Traversal.java" "Binary Tree Level Order Traversal II.java" "Binary Tree Inorder Traversal.java" "Binary Search Tree Iterator.java" "BestTimetoBuyandSellStock.java" "Best Time to Buy and Sell Stock.java" "Best Time to Buy and Sell Stock II.java" "BattleshipsInABoard.java" "Balanced Binary Tree.cpp" "AssignCookies.cpp" "ArithmeticSlices.java" "add_to_numbers.java" "Add_Binary.java" "a.out" ".clang_complete" "../" "./")
+
+ ("/Users/luminglv/.IntelliJIdea14/" (21892 20186 0 0) "restart/" "../" "./")
+
+ ("/Users/luminglv/github/emacs_cpp_completion/" (22594 61076 0 0) "rect.hpp" "rect.cpp" "README.md" "main.cpp" "cpp_completion.el" ".gitignore" ".git/" ".clang_complete" "#main.cpp#" "../" "./")
+
+ ("/var/folders/kh/trs6jfpd7279ctsx4_bckjqr0000gn/T/" (22593 42237 0 0) "xcrun_db" "TemporaryItems/" "preamble-fed073.pch" "preamble-e8c2c1.pch" "preamble-1dc27b.pch" "preamble-0e6d8c.pch" "irony.2016-12-02_23h-43m-36s.log" "irony.2016-12-02_23h-19m-33s.log" "irony.2016-12-02_23h-06m-30s.log" "irony-server-527e44" "ics1163" "icdd501" "com.tencent.localserver/" "com.getdropbox.dropbox.garcon/" "com.apple.WeatherKitService/" "com.apple.tonelibraryd/" "com.apple.SocialPushAgent/" "com.apple.soagent/" "com.apple.photomoments/" "com.apple.photolibraryd/" "com.apple.notificationcenterui.WeatherSummary/" "com.apple.mail/" "com.apple.lateragent/" "com.apple.InputMethodKit.TextReplacementService/" "com.apple.iChat/" "com.apple.geod/" "com.apple.DataDetectorsDynamicData/" "com.apple.corerecents.recentsd/" "com.apple.cloudphotosd/" "com.apple.CloudPhotosConfiguration/" "com.apple.CalendarAgent.CalNCService/" "com.apple.CalendarAgent/" "com.apple.AirPlayUIAgent/" "com.apple.AddressBook.ContactsAccountsService/" "chrome-5TFCdc/" "build-irony-server-0.2.1/" "babel-4199ATa/" ".keystoneAgentLock" ".com.google.Chrome.bApWfm/" ".CalendarLocks/" ".AddressBookLocks/" "../" "./")
+
+ ("/var/folders/kh/trs6jfpd7279ctsx4_bckjqr0000gn/T/build-irony-server-0.2.1/" (22593 42238 0 0) "Testing/" "test/" "src/" "Makefile" "install_manifest.txt" "docs/" "DartConfiguration.tcl" "CTestTestfile.cmake" "CMakeFiles/" "CMakeCache.txt" "cmake_install.cmake" "bin/" "../" "./")
+
+ ("/Users/luminglv/github/" (22593 38642 0 0) "pybrain/" "OJ/" "mastering_openCV/" "jdee-server/" "emacs_cpp_completion/" "Emacs-Configs/" "bashrc/" "auto-java-complete/" "async-http-client/" "AppleScript-Automation/" "Alfred-Workflow/" ".DS_Store" "../" "./")
+
+ ("/Users/luminglv/tt/" (22593 38595 0 0) "url~" "url" "tt.java~" "tt.java" "tt.cpp" "tt.class" "tr.sh" "tr.html" "test.sh~" "test.sh" "test.py" "test.org~" "test.org_archive" "test.org" "rankInfo.data1" "rankinfo.data" "proc.py" "opencv.py" "openCV/" "make-test/" "main.cpp" "leetcode_ac/" "hprice-dependency-switch.properties" "hh~" "hh" "file" "call-tree-pic/" "bangdan.data" ".url.data.swp" ".DS_Store" "#test.org#" "#opencv.py#" "#main.cpp#" "../" "./")
+
+ ("/var/" (22143 25979 0 0) "yp/" "vm/" "tmp/" "spool/" "rwho/" "run/" "rpc/" "root/" "networkd/" "netboot/" "msgs/" "mail/" "log/" "lib/" "jabberd/" "folders/" "empty/" "db/" "backups/" "audit/" "at/" "agentx/" "../" "./")
+
+ ("/var/folders/" (22104 4870 0 0) "zz/" "sm/" "kh/" "../" "./")
+
+ ("/var/folders/kh/" (21891 44813 0 0) "trs6jfpd7279ctsx4_bckjqr0000gn/" "../" "./")
+
+ ("/var/folders/kh/trs6jfpd7279ctsx4_bckjqr0000gn/" (22143 25728 0 0) "T/" "Cleanup At Startup/" "C/" "0/" "../" "./")
+
+ ("/Users/luminglv/Files/qunar/晋升/" (22584 19572 0 0) "附件1-员工晋升申请表_luming.lv.xlsx" "附件1-员工晋升申请表_luming.lv.xls" "附件1-员工晋升申请表_2016_11.numbers" "附件1-员工晋升申请表.xls" "附件1-员工晋升申请表.numbers" "转正答辩.pdf" "转正答辩.key" "答辩_201608.pdf" "答辩_201608.key" "晋级_luming_lv.pdf" "晋级_2016-03_base.key" "晋级_2016-03.key" "员工晋升申请表_luming.lv.xlsx" "员工晋升申请表_luming.lv.numbers" "pic/" "2016-11/" ".DS_Store" "../" "./")
+
+ ("/Users/luminglv/q/luming.lv_gitlab/offline-script/tuiguang_auto_level/" (22570 49587 0 0) "search_host_list" "run.sh" "hdfs_input_path" "emailTo" "email_proc.py" "email.sh" "d_compute_s2o.sh" "compute_s2o.sh" "../" "./")
+
+ ("/Users/luminglv/tt/openCV/" (22436 46678 0 0) "e_5089bzv.jpg" "DisplayImage.cpp" "CMakeLists.txt" "build/" ".DS_Store" "../" "./")
+
+ ("/Users/luminglv/q/luming.lv_gitlab/offline-script/tuiguang/" (22488 48186 0 0) "user_level.20151214" "insert_user_level.sh" "find_hotels.sh" "drag_mobrank_confirm_reject.sh" "../" "./")
+
+ ("/Users/luminglv/org/jekyll/" (22562 49914 0 0) "2016-11-09_test456.org" "2016-11-09_test123.org" "2016-11-09_abc123.org" "../" "./")
+
+ ("/usr/" (22143 25218 0 0) "X11R6/" "X11/" "standalone/" "share/" "sbin/" "local/" "libexec/" "lib/" "bin/" "adic/" "../" "./")
+
+ ("/usr/local/" (22447 6693 0 0) "share/" "README.md" "opt/" "LICENSE.txt" "Library/" "lib/" "include/" "git/" "etc/" "CODEOFCONDUCT.md" "Cellar/" "bin/" ".yardopts" ".travis.yml" ".gitignore" ".github/" ".git/" "../" "./")
+
+ ("/usr/local/Cellar/" (22447 9474 0 0) "xz/" "wget/" "tmux/" "pkg-config/" "pixman/" "pcre/" "pango/" "openssl/" "lrzsz/" "libtiff/" "librsvg/" "libpng/" "libffi/" "libevent/" "libcroco/" "jpeg/" "icu4c/" "httpie/" "harfbuzz/" "gobject-introspection/" "glib/" "git/" "gettext/" "gdk-pixbuf/" "freetype/" "fontconfig/" "emacs/" "eigen/" "cmake/" "cairo/" "bison/" "autojump/" "../" "./")
+
+ ("/usr/local/Cellar/emacs/" (22447 9474 0 0) "24.5/" "../" "./")
+
+ ("/usr/local/Cellar/emacs/24.5/" (22447 9588 0 0) "var/" "share/" "README" "libexec/" "INSTALL_RECEIPT.json" "homebrew.mxcl.emacs.plist" "Emacs.app/" "COPYING" "ChangeLog" "bin/" "../" "./")
+
+ ("/usr/local/Cellar/emacs/24.5/share/" (22447 9562 0 0) "man/" "info/" "icons/" "emacs/" "applications/" "../" "./")
+
+ ("/usr/local/Cellar/emacs/24.5/share/emacs/" (22447 9577 0 0) "site-lisp/" "24.5/" "../" "./")
+
+ ("/usr/local/Cellar/emacs/24.5/share/emacs/24.5/" (22447 9577 0 0) "site-lisp/" "lisp/" "etc/" "../" "./")
+
+ ("/usr/local/Cellar/emacs/24.5/share/emacs/24.5/lisp/" (22447 9588 0 0) "xt-mouse.elc" "xt-mouse.el.gz" "xml.elc" "xml.el.gz" "x-dnd.elc" "x-dnd.el.gz" "woman.elc" "woman.el.gz" "winner.elc" "winner.el.gz" "window.elc" "window.el.gz" "windmove.elc" "windmove.el.gz" "widget.elc" "widget.el.gz" "wid-edit.elc" "wid-edit.el.gz" "wid-browse.elc" "wid-browse.el.gz" "whitespace.elc" "whitespace.el.gz" "wdired.elc" "wdired.el.gz" "w32-vars.elc" "w32-vars.el.gz" "w32-fns.elc" "w32-fns.el.gz" "w32-common-fns.elc" "w32-common-fns.el.gz" "vt100-led.elc" "vt100-led.el.gz" "vt-control.elc" "vt-control.el.gz" "view.elc" "view.el.gz" "version.elc" "version.el.gz" "vcursor.elc" "vcursor.el.gz" "vc/" "userlock.elc" "userlock.el.gz" "url/" "uniquify.elc" "uniquify.el.gz" "type-break.elc" "type-break.el.gz" "tutorial.elc" "tutorial.el.gz" "tree-widget.elc" "tree-widget.el.gz" "tooltip.elc" "tooltip.el.gz" "tool-bar.elc" "tool-bar.el.gz" "tmm.elc" "tmm.el.gz" "timezone.elc" "timezone.el.gz" "time.elc" "time.el.gz" "time-stamp.elc" "time-stamp.el.gz" "thumbs.elc" "thumbs.el.gz" "thingatpt.elc" "thingatpt.el.gz" "textmodes/" "term.elc" "term.el.gz" "term/" "tempo.elc" "tempo.el.gz" "tar-mode.elc" "tar-mode.el.gz" "talk.elc" "talk.el.gz" "tabify.elc" "tabify.el.gz" "t-mouse.elc" "t-mouse.el.gz" "subr.elc" "subr.el.gz" "subdirs.el" "strokes.elc" "strokes.el.gz" "startup.elc" "startup.el.gz" "speedbar.elc" "speedbar.el.gz" "soundex.elc" "soundex.el.gz" "sort.elc" "sort.el.gz" "skeleton.elc" "skeleton.el.gz" "simple.elc" "simple.el.gz" "shell.elc" "shell.el.gz" "shadowfile.elc" "shadowfile.el.gz" "ses.elc" "ses.el.gz" "server.elc" "server.el.gz" "select.elc" "select.el.gz" "scroll-lock.elc" "scroll-lock.el.gz" "scroll-bar.elc" "scroll-bar.el.gz" "scroll-all.elc" "scroll-all.el.gz" "sb-image.elc" "sb-image.el.gz" "saveplace.elc" "saveplace.el.gz" "savehist.elc" "savehist.el.gz" "ruler-mode.elc" "ruler-mode.el.gz" "rot13.elc" "rot13.el.gz" "rfn-eshadow.elc" "rfn-eshadow.el.gz" "reveal.elc" "reveal.el.gz" "reposition.elc" "reposition.el.gz" "replace.elc" "replace.el.gz" "repeat.elc" "repeat.el.gz" "register.elc" "register.el.gz" "rect.elc" "rect.el.gz" "recentf.elc" "recentf.el.gz" "README" "ps-samp.elc" "ps-samp.el.gz" "ps-print.elc" "ps-print.el.gz" "ps-mule.elc" "ps-mule.el.gz" "ps-def.elc" "ps-def.el.gz" "ps-bdf.elc" "ps-bdf.el.gz" "progmodes/" "profiler.elc" "profiler.el.gz" "proced.elc" "proced.el.gz" "printing.elc" "printing.el.gz" "play/" "pcomplete.elc" "pcomplete.el.gz" "pcmpl-x.elc" "pcmpl-x.el.gz" "pcmpl-unix.elc" "pcmpl-unix.el.gz" "pcmpl-rpm.elc" "pcmpl-rpm.el.gz" "pcmpl-linux.elc" "pcmpl-linux.el.gz" "pcmpl-gnu.elc" "pcmpl-gnu.el.gz" "pcmpl-cvs.elc" "pcmpl-cvs.el.gz" "password-cache.elc" "password-cache.el.gz" "paren.elc" "paren.el.gz" "outline.elc" "outline.el.gz" "org/" "obsolete/" "nxml/" "novice.elc" "novice.el.gz" "notifications.elc" "notifications.el.gz" "newcomment.elc" "newcomment.el.gz" "net/" "mwheel.elc" "mwheel.el.gz" "msb.elc" "msb.el.gz" "mpc.elc" "mpc.el.gz" "mouse.elc" "mouse.el.gz" "mouse-drag.elc" "mouse-drag.el.gz" "mouse-copy.elc" "mouse-copy.el.gz" "misearch.elc" "misearch.el.gz" "misc.elc" "misc.el.gz" "minibuffer.elc" "minibuffer.el.gz" "minibuf-eldef.elc" "minibuf-eldef.el.gz" "midnight.elc" "midnight.el.gz" "mh-e/" "menu-bar.elc" "menu-bar.el.gz" "md4.elc" "md4.el.gz" "mb-depth.elc" "mb-depth.el.gz" "master.elc" "master.el.gz" "man.elc" "man.el.gz" "makesum.elc" "makesum.el.gz" "mail/" "macros.elc" "macros.el.gz" "ls-lisp.elc" "ls-lisp.el.gz" "lpr.elc" "lpr.el.gz" "locate.elc" "locate.el.gz" "loadup.el" "loadhist.elc" "loadhist.el.gz" "loaddefs.el" "linum.elc" "linum.el.gz" "leim/" "ldefs-boot.el" "language/" "kmacro.elc" "kmacro.el.gz" "kermit.elc" "kermit.el.gz" "json.elc" "json.el.gz" "jka-compr.elc" "jka-compr.el.gz" "jka-cmpr-hook.elc" "jka-cmpr-hook.el.gz" "jit-lock.elc" "jit-lock.el.gz" "isearchb.elc" "isearchb.el.gz" "isearch.elc" "isearch.el.gz" "international/" "informat.elc" "informat.el.gz" "info.elc" "info.el.gz" "info-xref.elc" "info-xref.el.gz" "info-look.elc" "info-look.el.gz" "indent.elc" "indent.el.gz" "imenu.elc" "imenu.el.gz" "image.elc" "image.el.gz" "image-mode.elc" "image-mode.el.gz" "image-file.elc" "image-file.el.gz" "image-dired.elc" "image-dired.el.gz" "iimage.elc" "iimage.el.gz" "ielm.elc" "ielm.el.gz" "ido.elc" "ido.el.gz" "icomplete.elc" "icomplete.el.gz" "ibuffer.elc" "ibuffer.el.gz" "ibuf-macs.elc" "ibuf-macs.el.gz" "ibuf-ext.elc" "ibuf-ext.el.gz" "htmlfontify.elc" "htmlfontify.el.gz" "hl-line.elc" "hl-line.el.gz" "hippie-exp.elc" "hippie-exp.el.gz" "hilit-chg.elc" "hilit-chg.el.gz" "hi-lock.elc" "hi-lock.el.gz" "hfy-cmap.elc" "hfy-cmap.el.gz" "hexl.elc" "hexl.el.gz" "hex-util.elc" "hex-util.el.gz" "help.elc" "help.el.gz" "help-mode.elc" "help-mode.el.gz" "help-macro.elc" "help-macro.el.gz" "help-fns.elc" "help-fns.el.gz" "help-at-pt.elc" "help-at-pt.el.gz" "gs.elc" "gs.el.gz" "gnus/" "generic-x.elc" "generic-x.el.gz" "fringe.elc" "fringe.el.gz" "frameset.elc" "frameset.el.gz" "frame.elc" "frame.el.gz" "forms.elc" "forms.el.gz" "format.elc" "format.el.gz" "format-spec.elc" "format-spec.el.gz" "font-lock.elc" "font-lock.el.gz" "font-core.elc" "font-core.el.gz" "follow.elc" "follow.el.gz" "foldout.elc" "foldout.el.gz" "flow-ctrl.elc" "flow-ctrl.el.gz" "finder.elc" "finder.el.gz" "finder-inf.el" "find-lisp.elc" "find-lisp.el.gz" "find-file.elc" "find-file.el.gz" "find-dired.elc" "find-dired.el.gz" "find-cmd.elc" "find-cmd.el.gz" "filesets.elc" "filesets.el.gz" "files.elc" "files.el.gz" "files-x.elc" "files-x.el.gz" "filenotify.elc" "filenotify.el.gz" "filecache.elc" "filecache.el.gz" "ffap.elc" "ffap.el.gz" "faces.elc" "faces.el.gz" "facemenu.elc" "facemenu.el.gz" "face-remap.elc" "face-remap.el.gz" "ezimage.elc" "ezimage.el.gz" "expand.elc" "expand.el.gz" "eshell/" "erc/" "epg.elc" "epg.el.gz" "epg-config.elc" "epg-config.el.gz" "epa.elc" "epa.el.gz" "epa-mail.elc" "epa-mail.el.gz" "epa-hook.elc" "epa-hook.el.gz" "epa-file.elc" "epa-file.el.gz" "epa-dired.elc" "epa-dired.el.gz" "env.elc" "env.el.gz" "emulation/" "emacs-lock.elc" "emacs-lock.el.gz" "emacs-lisp/" "elide-head.elc" "elide-head.el.gz" "electric.elc" "electric.el.gz" "elec-pair.elc" "elec-pair.el.gz" "ehelp.elc" "ehelp.el.gz" "edmacro.elc" "edmacro.el.gz" "echistory.elc" "echistory.el.gz" "ebuff-menu.elc" "ebuff-menu.el.gz" "dynamic-setting.elc" "dynamic-setting.el.gz" "double.elc" "double.el.gz" "dos-w32.elc" "dos-w32.el.gz" "dos-vars.elc" "dos-vars.el.gz" "dos-fns.elc" "dos-fns.el.gz" "doc-view.elc" "doc-view.el.gz" "dnd.elc" "dnd.el.gz" "disp-table.elc" "disp-table.el.gz" "dirtrack.elc" "dirtrack.el.gz" "dired.elc" "dired.el.gz" "dired-x.elc" "dired-x.el.gz" "dired-aux.elc" "dired-aux.el.gz" "dframe.elc" "dframe.el.gz" "desktop.elc" "desktop.el.gz" "descr-text.elc" "descr-text.el.gz" "delsel.elc" "delsel.el.gz" "delim-col.elc" "delim-col.el.gz" "dabbrev.elc" "dabbrev.el.gz" "custom.elc" "custom.el.gz" "cus-theme.elc" "cus-theme.el.gz" "cus-start.elc" "cus-start.el.gz" "cus-load.el" "cus-face.elc" "cus-face.el.gz" "cus-edit.elc" "cus-edit.el.gz" "cus-dep.elc" "cus-dep.el.gz" "COPYING" "composite.elc" "composite.el.gz" "completion.elc" "completion.el.gz" "comint.elc" "comint.el.gz" "color.elc" "color.el.gz" "cmuscheme.elc" "cmuscheme.el.gz" "chistory.elc" "chistory.el.gz" "cedet/" "cdl.elc" "cdl.el.gz" "case-table.elc" "case-table.el.gz" "calendar/" "calculator.elc" "calculator.el.gz" "calc/" "button.elc" "button.el.gz" "buff-menu.elc" "buff-menu.el.gz" "bs.elc" "bs.el.gz" "bookmark.elc" "bookmark.el.gz" "bindings.elc" "bindings.el.gz" "battery.elc" "battery.el.gz" "avoid.elc" "avoid.el.gz" "autorevert.elc" "autorevert.el.gz" "autoinsert.elc" "autoinsert.el.gz" "autoarg.elc" "autoarg.el.gz" "array.elc" "array.el.gz" "arc-mode.elc" "arc-mode.el.gz" "apropos.elc" "apropos.el.gz" "ansi-color.elc" "ansi-color.el.gz" "allout.elc" "allout.el.gz" "allout-widgets.elc" "allout-widgets.el.gz" "align.elc" "align.el.gz" "abbrev.elc" "abbrev.el.gz" "../" "./")
+
+ ("/Users/luminglv/github/OJ/" (22544 38164 0 0) "UVA/" "README.md" "POJ/" "leetcode/" ".git/" "../" "./")
+
+ ("/Users/luminglv/.emacs.d/elpa/" (22540 10872 0 0) "zenburn-theme-readme.txt" "zenburn-theme-20160724.2141/" "yasnippet-readme.txt" "yasnippet-20160801.1142/" "undo-tree-20140509.522/" "smex-20151212.1409/" "seq-2.16/" "powerline-readme.txt" "powerline-evil-readme.txt" "powerline-evil-20151112.710/" "powerline-20160702.1931/" "popup-20160709.729/" "pkg-info-20150517.443/" "org-bullets-readme.txt" "org-bullets-20140918.1137/" "let-alist-1.0.4/" "jdee-readme.txt" "jdee-20160728.1152.bak/" "iedit-20160927.1726/" "goto-chg-20131228.659/" "google-c-style-readme.txt" "google-c-style-20140929.1118/" "flymake-google-cpplint-readme.txt" "flymake-google-cpplint-20140205.525/" "flymake-easy-20140818.55/" "flymake-cursor-readme.txt" "flymake-cursor-20130822.332/" "evil-readme.txt" "evil-iedit-state-readme.txt" "evil-iedit-state-20160905.1908/" "evil-20160827.1510/" "epl-20150517.433/" "color-theme-solarized-20160626.743/" "color-theme-sanityinc-tomorrow-readme.txt" "color-theme-sanityinc-solarized-readme.txt" "color-theme-sanityinc-solarized-20160429.1903/" "color-theme-readme.txt" "color-theme-20080305.34/" "autopair-20160304.437/" "auto-complete-readme.txt" "auto-complete-c-headers-readme.txt" "auto-complete-c-headers-20150911.2023/" "auto-complete-20160827.649/" "archives/" "../" "./")
+
+ ("/Users/luminglv/q/luming.lv_gitlab/offline-script/hotel_label_data/" (22537 50285 0 0) "run.sh" "pro_order_data.py" "get_city_star_order_top_data.sh" "delete_black_hotels.sh" "../" "./")
+
+ ("/Users/luminglv/.emacs.d/elpa/auto-complete-c-headers-20150911.2023/" (22520 45631 0 0) "auto-complete-c-headers.elc" "auto-complete-c-headers.el" "auto-complete-c-headers-pkg.elc" "auto-complete-c-headers-pkg.el" "auto-complete-c-headers-autoloads.el~" "auto-complete-c-headers-autoloads.el" "../" "./")
+
+ ("/Users/luminglv/github/bashrc/" (22499 50131 0 0) "test.t" "README.md" "bashrc" ".git/" "../" "./")
+
+ ("/Users/luminglv/q/luming.lv_gitlab/offline-script/host_hotel/" (22488 44453 0 0) "run.sh" "merge.sh" "drag_host/" "delete_host/" "autoRun.sh" "../" "./")
+
+ ("/Users/luminglv/q/" (22483 24828 0 0) "tomcat/" "smartSVN/" "repo/" "qtalk/" "PycharmProjects/" "pyCharm/" "py_test/" "netbeans_project/" "navicat/" "maven/" "macports/" "luming.lv_gitlab/" "java/" "iTerm2/" "idea_project/" "idea/" "diff/" "checkout_project/" "20150923_zhekou_config/" "20150921_baofang_datasource_transfer/" "20150917_fts2_top2/" ".DS_Store" "../" "./")
+
+ ("/Users/luminglv/github/Alfred-Workflow/youdao_translate/" (22484 7770 0 0) "translate_1.sh" "README.md" "../" "./")
+
+ ("/Users/luminglv/github/Alfred-Workflow/kill_process_by_keyword/" (22484 50560 0 0) "README.md" "kill_1.sh" "find_1.sh" "../" "./")
+
+ ("/Users/luminglv/q/idea_project/mobile_hotel/parse_git/offline-script/script/bangdan/" (22482 9816 0 0) "hive_sql" "drag_bangdan_data.sh" "bangdan_sync_mysql_to_hdfs.sh" "../" "./")
+
+ ("/Users/luminglv/q/idea_project/mobile_hotel/parse_git/offline-script/script/sh_pack/" (22482 47975 0 0) "update_from_local_git_repo.sh" "make_from_hotdog_host.sh" "load_data_to_hive.sh" "hotdog_host" "drag_mobrank_confirm_reject.sh" "drag_data.sh" "common.sh" "../" "./")
+
+ ("/Users/luminglv/github/Alfred-Workflow/" (22464 1929 0 0) "youdao_translate/" "README.md" "kill_process_by_keyword/" "find_local_ip/" "chrome_incognito/" ".git/" "../" "./")
+
+ ("/Users/luminglv/q/idea_project/mobile_hotel/parse_git/offline-script/script/" (22425 28528 0 0) "user_filter_pv/" "tuiguang/" "sh_pack/" "run_filter_pv_job.sh" "py_test/" "host_hotel/" "bangdan/" "../" "./")
+
+ ("/Users/luminglv/q/idea_project/mobile_hotel/parse_git/offline-script/" (22425 42244 0 0) "src/" "script/" "pom.xml" "mobile-hotel-rank-parse.iml" "build.sh" ".idea/" ".gitignore" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/luminglv/q/idea_project/mobile_hotel/parse_git/" (22402 6171 0 0) "tuiguang_auto_level/" "to_jenkins_click_price/" "offline-script/" "mobile_hotel_rank_parse_/" "mobile_hotel_rank_parse/" "20160710_merge_master/" "20160527_parse/" ".DS_Store" "../" "./")
+
+ ("/Users/luminglv/q/idea_project/mobile_hotel/" (22426 48242 0 0) "tuiguang/" "storm/" "rank_bi_api/" "rank-common/" "qconfig/" "parse_git/" "mobile_rank_train/" "mobile_inovation/" "mobile_hotel_room/" "mobile-rank-parse-merge-online/" "mobile-rank-bi/" "mobile-hotel-rank-parse/" "innovation/" "hotel_search_1/" "hotel_room_status/" "hotel_rank_common/" "hotel_quality_rank_test/" "hotel_quality_rank_20160403/" "hotel_quality_rank/" "hotel-search/" "hotel-price-compare/" "eb/" "distributed_train_git/" "distributed_train/" "discover-hotel/" "autotest/" "anti_cheat/" ".DS_Store" "../" "./")
+
+ ("/Users/luminglv/q/idea_project/" (22371 22195 0 0) "storm/" "qta_code.rar" "py/" "mobile_hotel/" "ml/" "h_hprice_rebuild.tar.gz" "h_hprice_api.tar.gz" "fresh/" ".DS_Store" "../" "./")
+
+ ("/Users/luminglv/Files/" (22453 43189 0 0) "qunar/" "llm/" "conglu/" ".DS_Store" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

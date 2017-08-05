@@ -1,0 +1,1 @@
+(define-package "moe-theme" "20170112.1038" "A colorful eye-candy theme. Moe, moe, kyun!" nil   :url "https://github.com/kuanyui/moe-theme.el")
