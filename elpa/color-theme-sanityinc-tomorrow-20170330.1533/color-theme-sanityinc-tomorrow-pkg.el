@@ -1,0 +1,1 @@
+(define-package   "color-theme-sanityinc-tomorrow"   "20170330.1533"   "A version of Chris Kempson's various Tomorrow themes")

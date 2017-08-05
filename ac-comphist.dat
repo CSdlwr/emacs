@@ -1,0 +1,1058 @@
+((("item" .
+   [1 0 0 0])
+  ("reload" .
+   [0 0 0 1 0 0])
+  ("not_matched" .
+   [0 0 0 0 1 0 0 0 0 0 0])
+  ("python" .
+   [1 0 0 0 0 0])
+  ("multiprocessing" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("iteritems" .
+   [0 0 0 0 0 1 0 0 0])
+  ("meituan_category_detail_bed_type_cluster_consist" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("room_type_bed_type" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("meituan_wrappers" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1])
+  ("meituan_category_detail_bed_type_single_consist" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0])
+  ("non" .
+   [3 0 0])
+  ("bed_types" .
+   [5 0 0 0 0 0 0 0 0])
+  ("rc_name" .
+   [2 0 0 0 0 0 0])
+  ("meituan_category_detail" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("segs" .
+   [1 0 0 1])
+  ("value" .
+   [0 0 0 0 1])
+  ("rt_bed_type" .
+   [0 0 0 0 0 0 1 0 0 0 0])
+  ("id_raw_list" .
+   [0 0 0 0 0 0 2 0 0 0 0])
+  ("values" .
+   [4 0 0 0 0 0])
+  ("non_hotel_id_path_keys" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("key" .
+   [9 0 0])
+  ("meituan_hotel_id_room_bed_type_raw" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("path_key" .
+   [2 0 0 0 0 0 0 3])
+  ("rt_name" .
+   [3 0 0 0 0 0 0])
+  ("status" .
+   [1 0 0 0 0 0])
+  ("codebase" .
+   [4 0 0 0 0 0 0 0])
+  ("meituan_category_detail_file" .
+   [0 0 0 0 0 0 0 0 0 0 4 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("with" .
+   [0 0 0 1])
+  ("room_bed_types" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("bed_type" .
+   [1 0 0 2 0 0 0 0])
+  ("room_type" .
+   [2 0 0 0 0 0 0 0 3])
+  ("meituan_room_bed_type_raw_file" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("hotel_id" .
+   [16 0 0 0 0 0 0 0])
+  ("hotel_seq_hotel_id_mapping" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2])
+  ("hotel_seq_hotel_id_mapping_file" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0])
+  ("append" .
+   [2 0 0 0 1 1])
+  ("raw" .
+   [1 0 0])
+  ("replace" .
+   [1 0 0 0 0 0 0])
+  ("match_result_cleaned" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("match_result" .
+   [1 0 0 0 0 0 0 0 0 0 0 0])
+  ("findall" .
+   [1 0 0 0 0 0 1])
+  ("pattern" .
+   [1 0 0 0 0 0 0])
+  ("raw_name" .
+   [9 0 0 0 0 0 0 1])
+  ("decode" .
+   [2 0 0 0 0 0])
+  ("config_file" .
+   [0 0 0 0 0 1 0 0 0 0 0])
+  ("rt_node_seq" .
+   [0 0 0 0 0 2 0 0 0 0 0])
+  ("-f3" .
+   [1 0 0])
+  ("-d/" .
+   [1 0 0])
+  ("-name" .
+   [1 0 0 0 0])
+  ("env_dir" .
+   [1 0 0 0 0 0 0])
+  ("room_type_raw_file" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("-x" .
+   [1 0])
+  ("min" .
+   [4 0 0])
+  ("sort" .
+   [1 0 0 0])
+  ("minMoves2" .
+   [0 0 0 1 0 0 0 0 0])
+  ("highlight-indent-guides" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("highlight" .
+   [0 0 0 0 0 0 0 0 3])
+  ("time-less-p" .
+   [0 0 0 0 0 0 0 0 0 0 1])
+  ("days-to-time" .
+   [0 0 0 0 0 0 0 0 0 0 0 1])
+  ("time" .
+   [2 0 0 0])
+  ("time-to-days" .
+   [5 0 0 0 0 0 0 0 0 0 0 0])
+  ("time-string" .
+   [2 0 0 0 0 0 0 0 0 0 0])
+  ("parse-time" .
+   [3 0 0 0 0 0 0 0 0 1])
+  ("parse-time-string" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("org" .
+   [1 0 0])
+  ("entry-point" .
+   [0 0 0 0 0 0 0 0 2 0 1])
+  ("entry-id" .
+   [2 0 0 0 0 0 0 0])
+  ("entry" .
+   [2 0 0 0 1])
+  ("org-id-find" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("org-id" .
+   [1 0 0 0 0 0])
+  ("or" .
+   [1 0])
+  ("goto-char" .
+   [1 0 0 0 0 0 0 0 0])
+  ("my:test" .
+   [3 0 0 0 0 1 0])
+  ("org-element-" .
+   [1 0 0 0 0 0 0 0 0 0 0 7])
+  ("my:date-time-string-format" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("def" .
+   [3 0 0])
+  ("collections" .
+   [0 0 0 0 0 0 0 0 0 0 1])
+  ("Irony" .
+   [0 0 0 0 1])
+  ("numberOfArithmeticSlices" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("y-or-n-p" .
+   [0 0 1 0 0 0 0 0])
+  ("yes-or-no-p" .
+   [0 0 0 1 0 0 0 0 0 0 0])
+  ("defalias" .
+   [0 0 0 0 0 1 0 0])
+  ("flycheck-flake8-maximum-line-length" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("flycheck" .
+   [0 0 0 0 0 1 0 0])
+  ("setq-default" .
+   [0 0 0 0 0 0 0 0 0 0 0 1])
+  ("resultBy" .
+   [1 0 0 0 6 0 0 0])
+  ("j" .
+   [2])
+  ("d" .
+   [2])
+  ("right" .
+   [1 0 0 0 1])
+  ("len" .
+   [2 0 0])
+  ("tag_version_in_db_count" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("local_file_keep_count" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("delete_by_version_sql" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("head" .
+   [1 0 0 0])
+  ("tag_code_version" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0])
+  ("xargs" .
+   [1 0 0 0 0])
+  ("tmp_sql" .
+   [0 0 1 3 0 0 0])
+  ("tag_code_version_sql" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("distinct_tag_code" .
+   [0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("link_mobrank_db" .
+   [0 0 0 0 4 0 0 0 0 0 0 0 0 0 0])
+  ("sh" .
+   [2 0])
+  ("distinct_version_sql" .
+   [0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("rm" .
+   [1 0])
+  ("distinct" .
+   [0 0 0 0 0 0 1 0])
+  ("clean_db" .
+   [0 0 1 0 0 0 0 0])
+  ("tag_code" .
+   [2 0 0 3 0 0 0 0])
+  ("tag" .
+   [5 0 0])
+  ("eval-after-load" .
+   [0 0 0 0 0 0 0 2 0 0 0 0 0 0 0])
+  ("elpy-mode" .
+   [0 0 0 1 0 0 0 1 0])
+  ("update" .
+   [1 0 0 0 0 0])
+  ("my:align-org-agenda-tags-column" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("org-agenda-finalize-hook" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("org-agenda-finalize" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("org-agenda-align-tags" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("window-width" .
+   [0 0 0 0 0 0 0 0 1 0 0 1])
+  ("org-agenda-tags-column" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1])
+  ("jekyll-formatted-file-path" .
+   [1 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("c" .
+   [1])
+  ("let*" .
+   [4 0 0 0])
+  ("test-dir" .
+   [0 0 0 0 1 0 0 0])
+  ("ido-find-file-in-dir" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 2])
+  ("ido-read-file-name" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("l" .
+   [4])
+  ("read-string" .
+   [0 0 0 0 0 0 0 1 0 0 1])
+  ("args" .
+   [0 0 0 1])
+  ("current-time" .
+   [0 0 0 0 0 0 0 1 0 0 0 5])
+  ("insert" .
+   [1 0 0 0 0 2])
+  ("f" .
+   [6])
+  ("current" .
+   [1 0 0 0 0 0 2])
+  ("current-time-string" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("window-start" .
+   [0 0 0 0 0 0 0 0 0 0 1 0])
+  ("point-min" .
+   [0 0 0 0 0 1 0 0 0])
+  ("last-command" .
+   [0 0 0 0 0 0 0 0 1 1 0 0])
+  ("irony" .
+   [0 0 0 1 1])
+  ("irony-mode-hook" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1 0 0])
+  ("objc-mode-hook" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0])
+  ("objc-mode" .
+   [0 0 0 1 0 0 0 0 0])
+  ("c-mode-hook" .
+   [0 0 0 0 0 0 0 0 0 0 1])
+  ("irony-mode" .
+   [0 0 0 1 0 0 0 0 2 0])
+  ("global-srecode-minor-mode" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("semantic-load-enable-code-helpers" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("global-ede-mode" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("load-file" .
+   [0 0 0 0 0 0 0 0 1])
+  ("semantic/bovine/gcc" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0])
+  ("my:org-agenda-ret-swith-to" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("my:org-agenda-" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("org-agenda-switch-to" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("org-agenda-mode-hook" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0])
+  ("org-agenda-mode" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("my:org-agenda-init-evil-normal-state" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("when" .
+   [7 0 0 1])
+  ("-1" .
+   [2 0])
+  ("evil-emacs-state" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("evil" .
+   [0 0 0 1])
+  ("org-agenda-start-on-weekday" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("Month" .
+   [0 0 0 0 1])
+  ("scroll-step" .
+   [0 0 0 1 0 0 0 0 0 0 0])
+  ("set-default" .
+   [0 0 0 0 0 0 0 0 0 0 1])
+  ("sys/" .
+   [2 0 0 0])
+  ("my:add-semantic-to-autocomplete" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("ac-source-semantic" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("ac-sources" .
+   [0 0 0 0 0 0 0 0 0 1])
+  ("semantic-mode" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0])
+  ("std" .
+   [8 0 0])
+  ("string" .
+   [7 0 0 2 0 0])
+  ("string.h" .
+   [0 0 0 0 0 0 0 2])
+  ("ctype.h" .
+   [1 0 0 1 0 0 0])
+  ("st" .
+   [2 0])
+  ("height" .
+   [0 2 0 0 0 0])
+  ("float" .
+   [0 0 2 0 0])
+  ("fill-column" .
+   [0 0 0 0 0 0 0 0 1 0 0])
+  ("number-to-string" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("fillarray" .
+   [0 0 0 0 1 0 0 0 0])
+  ("frames" .
+   [0 0 0 1 0 0])
+  ("aw-scope" .
+   [0 0 0 0 0 0 0 1])
+  ("ace-window" .
+   [0 0 0 1 0 0 0 0 0 0])
+  ("my:org-mode-truncate-lines" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("save-buffer" .
+   [0 0 0 0 0 0 0 0 1 1 0])
+  ("progn" .
+   [2 0 0 2 2])
+  ("-5" .
+   [1 0])
+  ("file-name-nondirectory" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 2])
+  ("filename" .
+   [0 0 0 0 0 0 1 0])
+  ("file" .
+   [2 0 0 0])
+  ("my:java-exec-currunt-buffer-file" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("message" .
+   [0 0 0 0 1 1 22])
+  ("bufferp" .
+   [0 0 0 0 0 1 0])
+  ("n" .
+   [2])
+  ("string-suffix-p" .
+   [0 0 0 0 0 1 0 0 0 0 2 0 0 0 1])
+  ("substring" .
+   [1 0 0 0 1 0 0 0 3])
+  ("my:javac-compile-currunt-buffer-file" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("i" .
+   [10])
+  ("boolean" .
+   [0 0 0 1 0 0 0])
+  ("numSquares" .
+   [0 0 0 1 0 0 0 0 0 0])
+  ("null" .
+   [4 0 0 0])
+  ("nums" .
+   [16 0 1 4])
+  ("initial-frame-alist" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("state2" .
+   [2 0 0 0 0 0])
+  ("traverse2" .
+   [5 0 0 0 0 0 0 0 0])
+  ("false" .
+   [1 0 0 2 0])
+  ("t" .
+   [2])
+  ("if" .
+   [6 1])
+  ("true" .
+   [2 0 1 2])
+  ("traverse1" .
+   [0 0 2 1 3 0 0 0 0])
+  ("state" .
+   [0 0 0 17 12])
+  ("length" .
+   [4 0 0 10 3 8])
+  ("matrix" .
+   [2 0 1 5 11 13])
+  ("ArrayList(" .
+   [0 0 0 0 0 0 1 0 0 0])
+  ("List" .
+   [2 0 0 2])
+  ("System" .
+   [0 0 1 4 0 0])
+  ("indent-tabs-mode" .
+   [0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0])
+  ("jdee" .
+   [1 0 0 2])
+  ("load" .
+   [0 0 0 1])
+  ("load-path" .
+   [2 0 0 0 0 0 0 1 0])
+  ("black_hotels_file_path" .
+   [0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("src_data_file_path" .
+   [0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("google-make-newline-indent" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("google-set-c-style" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("c-mode-common-hook" .
+   [0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 1])
+  ("a" .
+   [4])
+  ("google-c-style" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("custom-set-variables" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("my:flymake-google-init" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("c++-mode-hook" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 1])
+  ("flymake-google-cpplint-load" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0])
+  ("flymake" .
+   [0 0 0 0 0 0 1])
+  ("flymake-google-cpplint" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 2])
+  ("defun" .
+   [1 0 0 0 19])
+  ("dest_path" .
+   [0 0 0 1 0 0 0 0 0])
+  ("branch" .
+   [0 0 0 0 1 0])
+  ("git" .
+   [3 0 1])
+  ("checkout" .
+   [0 0 0 0 0 1 0 0])
+  ("/home/q/users/luming.lv/git/mobile_hotel_rank_parse" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("return" .
+   [0 0 0 1 0 2])
+  ("alias" .
+   [0 0 0 0 6])
+  ("autopair-global-mode" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("autopair" .
+   [0 0 0 0 0 0 1 0])
+  ("execute-extended-command" .
+   [1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("smex-major-mode-commands" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("kbd" .
+   [15 0 7])
+  ("global-set-key" .
+   [0 0 0 1 0 1 0 0 0 0 1 0 0 11])
+  ("smex" .
+   [0 0 0 4])
+  ("ido-mode" .
+   [0 0 1 1 0 0 0 0])
+  ("powerline-evil" .
+   [0 0 0 0 0 0 0 0 0 0 1 1 0 0])
+  ("s" .
+   [10])
+  ("set-frame-height" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("set-frame-width" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("selected-frame" .
+   [0 0 0 0 0 0 1 0 2 0 0 0 0 0])
+  ("set-frame-position" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("load-theme" .
+   [0 0 0 0 0 0 0 1 0 0])
+  ("tool-bar-mode" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("org-hide-leading-stars" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("setq" .
+   [17 0 3 17])
+  ("lambda" .
+   [0 0 0 3 0 4])
+  ("org-mode-hook" .
+   [0 0 0 0 0 0 0 0 0 1 1 0 0])
+  ("add-hook" .
+   [1 0 0 0 2 1 0 14])
+  ("color-theme-classic" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0])
+  ("require" .
+   [0 0 0 4 0 0 19])
+  ("yasnippet" .
+   [0 0 0 1 0 0 0 0 0])
+  ("yas-global-mode" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("pushd" .
+   [0 0 2 0 0])
+  ("LINES" .
+   [1 0 0 0 0])
+  ("while" .
+   [2 0 0 1 2])
+  ("readonly" .
+   [0 0 0 0 0 0 1 0])
+  ("source" .
+   [0 0 1 2 1 0])
+  ("luming.lv" .
+   [0 0 0 0 0 0 3 0 0])
+  ("l-rtools1.ops.cn" .
+   [0 0 3 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("function" .
+   [0 0 0 2 1 0 0 5])
+  ("org-bullets-mode" .
+   [0 0 0 0 0 0 1 0 2 0 0 0 0 0 0 0])
+  ("gitaddmodify" .
+   [0 0 0 0 0 1 0 0 0 0 0 0])
+  ("gst" .
+   [1 0 0])
+  ("grep" .
+   [0 0 0 1])
+  ("awk" .
+   [1 0 1])
+  ("curr_branch" .
+   [0 0 0 0 1 0 0 0 0 0 0])
+  ("curr_branch:" .
+   [0 0 0 0 0 0 0 0 0 0 1 0])
+  ("echo" .
+   [0 0 0 2])
+  ("date" .
+   [3 0 0 0])
+  ("+%F" .
+   [1 0 0])
+  ("-uwirelessdev" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("hive" .
+   [1 0 0 0])
+  ("memq" .
+   [0 0 0 1])
+  ("menu-bar-mode" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0])
+  ("nil" .
+   [12 0 1])
+  ("powerline-evil-center-color-theme" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("powerline-evil-vim-theme" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0])
+  ("powerline-evil-vim-color-theme" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("ido-enable-flex-matching" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("ido-everywhere" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 2])
+  ("add-to-list" .
+   [0 0 0 0 0 0 2 0 1 0 5])
+  ("default-frame-alist" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2])
+  ("font" .
+   [2 0 0 0])
+  ("qlg" .
+   [0 0 1])
+  ("print" .
+   [14 0 0 0 1])
+  ("format" .
+   [0 0 0 0 0 4])
+  ("1+" .
+   [1 0])
+  ("git_push_current" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("github_push_current" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("column_num" .
+   [0 0 0 0 2 0 0 0 0 0])
+  ("column" .
+   [0 0 0 0 1 0])
+  ("printf" .
+   [1 0 0 0 0 7])
+  ("main" .
+   [5 0 0 2])
+  ("main_class" .
+   [0 0 0 0 1 0 0 0 0 0])
+  ("synchronized" .
+   [0 0 1 0 0 0 0 0 0 0 0 0])
+  ("static" .
+   [1 0 0 0 0 1])
+  ("private" .
+   [0 0 0 2 1 0 0])
+  ("final" .
+   [2 0 0 0 0])
+  ("catch" .
+   [0 0 1 2 0])
+  ("finally" .
+   [0 0 1 0 0 0 0])
+  ("throw" .
+   [0 0 0 0 1])
+  ("StringBuilder" .
+   [0 0 0 0 0 0 3 0 0 0 0 0 1])
+  ("set" .
+   [1 0 0])
+  ("jde-mode" .
+   [0 0 0 0 1 0 0 0])
+  ("jdee-mode-hook" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0])
+  ("c-basic-" .
+   [0 0 0 0 0 0 0 1])
+  ("c-basic-offset" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("tab-width" .
+   [0 0 0 0 1 0 0 0 0])
+  ("Index" .
+   [0 0 0 0 1])
+  ("jdee-mode" .
+   [0 0 0 0 0 0 0 0 1])
+  ("interactive" .
+   [0 0 0 0 0 3 1 3 0 0 3])
+  ("comment-normalize-vars" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("and" .
+   [4 0 0])
+  ("not" .
+   [8 0 0])
+  ("region-active-p" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("looking-at" .
+   [0 0 0 0 0 0 0 0 0 1])
+  ("comment" .
+   [1 0 0 0 0 0 0])
+  ("comment-or-uncomment-region" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("line-beginning-position" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("line-end-position" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("comment-dwim" .
+   [0 0 0 0 0 0 0 0 0 0 1 0])
+  ("arg" .
+   [1 0 0])
+  ("my:comment-dwim-line" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("buffer-file-name" .
+   [0 0 0 0 0 0 0 0 0 1 1 3 0 0 2 1])
+  ("shell-command" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 3])
+  ("buffer-file-" .
+   [0 0 0 0 0 0 0 0 0 0 2 0])
+  ("concat" .
+   [3 0 0 0 0 14])
+  ("aw-dispatch-always" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("class" .
+   [0 0 0 0 1])
+  ("prices" .
+   [1 0 0 0 1 10])
+  ("max" .
+   [5 0 0])
+  ("buyInPrice" .
+   [0 0 2 0 0 0 0 0 0 0])
+  ("BestTimetoBuyandSellStock" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("println" .
+   [0 0 0 0 0 1 1])
+  ("maxProfit" .
+   [0 0 0 0 0 0 1 0 0])
+  ("println()                        :void" .
+   [0 0 0 0 0 0 1 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("autopair-autowrap" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("java-mode-hook" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0])
+  ("org-todo-keywords" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0])
+  ("sequence." .
+   [0 0 0 0 0 0 0 0 1])
+  ("org-agenda" .
+   [0 0 0 0 0 1 0 0 1 2])
+  ("org-agenda-files" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("list" .
+   [8 0 1 0])
+  ("number-sequence" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("Org" .
+   [3 0 2])
+  ("org-agenda-window-setup" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("org-agenda-use-time-grid" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("calendar" .
+   [0 0 0 1 0 0 0 1])
+  ("calendar-mode-hook" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("local-set-key" .
+   [0 0 0 0 0 0 0 0 1 1 1 0 2])
+  ("forward" .
+   [0 0 0 0 0 0 1])
+  ("calendar-forward-day" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("local-unset-key" .
+   [0 0 0 0 0 0 0 0 2 0 0 0 0 0 1])
+  ("cal-china" .
+   [0 0 0 0 0 0 0 0 1])
+  ("cal-china-x" .
+   [0 0 0 0 0 0 0 0 0 1 0])
+  ("mark-holidays-in-calendar" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("calendar-backward-day" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("shrink-window-horizontally" .
+   [0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("enlarge-window-horizontally" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("enlarge-window" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("aset" .
+   [1 0 0 1])
+  ("m" .
+   [4])
+  ("char-equal" .
+   [0 0 0 0 0 0 1 0 0 1])
+  ("let" .
+   [11 0 0])
+  ("case-fold-search" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1])
+  ("last" .
+   [1 0 0 1])
+  ("consp" .
+   [0 0 0 1 1])
+  ("car" .
+   [4 0 0])
+  ("cdr" .
+   [9 0 0])
+  ("cons" .
+   [4 0 0 0])
+  ("atom" .
+   [0 0 0 1])
+  ("nth" .
+   [3 0 0])
+  ("inc" .
+   [0 0 2])
+  ("include" .
+   [0 0 1 0 1 2 8])
+  ("org-agenda-span-name" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("org-startup" .
+   [0 0 0 0 0 0 0 0 0 0 1])
+  ("evil-emacs-state-p" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0])
+  ("evil-normal-state" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0])
+  ("o" .
+   [1])
+  ("my:org-agenda-enable-evil-normal-state" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("org-finalize-agenda-hook" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("org-log-done" .
+   [0 0 0 0 0 0 0 0 0 0 0 1])
+  ("Note:" .
+   [0 0 0 0 1])
+  ("evil-normal-state-p" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("org-tag-alist" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("buffer-name" .
+   [0 0 0 0 0 0 0 0 0 1 3])
+  ("string=" .
+   [6 0 0 0 0 0 2])
+  ("evil-goto-line" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("find-file-hook" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("my:task-org-file-go-to-last-line" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("my:task-org-dir" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("my:task-org-file" .
+   [1 0 1 1 0 0 0 1 0 0 0 0 0 0 0 1])
+  ("cin" .
+   [1 1 2])
+  ("vector" .
+   [3 0 0 1 2 2])
+  ("vec" .
+   [17 0 0])
+  ("defvar" .
+   [0 0 0 0 0 3])
+  ("jekyll-org-files-dir" .
+   [0 0 2 3 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("my:jekyll-org-files-dir" .
+   [0 0 0 0 1 2 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("file-name" .
+   [1 0 0 0 0 0 0 1 4])
+  ("file-name-base" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("path" .
+   [12 0 1 4])
+  ("format-time-string" .
+   [0 0 0 0 0 0 0 0 0 0 3 0 0 0 0 0 0 2])
+  ("jekyll-formatted-file-name" .
+   [0 0 5 5 4 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("asdf" .
+   [1 0 0 0])
+  ("file-exists-p" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 4])
+  ("message-box" .
+   [0 0 0 0 0 0 0 1 0 0 0])
+  ("unless" .
+   [0 0 0 0 1 1])
+  ("switch-to-" .
+   [0 0 0 0 0 0 0 0 0 1])
+  ("switch-to-buffer" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2])
+  ("get-buffer-create" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2])
+  ("write-file" .
+   [0 0 0 0 0 0 0 0 0 2])
+  ("p" .
+   [1])
+  ("find-file" .
+   [0 0 0 0 0 0 0 1 1])
+  ("define-key" .
+   [0 0 0 0 0 0 1 0 0 0])
+  ("global-map" .
+   [0 0 0 1 0 0 0 0 0 0])
+  ("org-capture" .
+   [0 0 0 0 0 0 0 1 1 0 1])
+  ("setq-local" .
+   [0 0 0 0 0 1 0 0 0 1])
+  ("land" .
+   [0 0 0 1])
+  ("org-open-at-point" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  (":empty-lines" .
+   [0 0 0 0 0 0 0 0 0 0 0 1])
+  (":empty-lines-after" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  (":empty-lines-before" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0])
+  ("org-log-into-drawer" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("Python" .
+   [0 0 0 0 1 2])
+  ("python-mode" .
+   [0 0 0 0 0 0 0 0 0 0 1])
+  ("locale-info" .
+   [0 0 0 0 0 0 0 0 1 0 0])
+  ("Elpy" .
+   [1 0 0 0])
+  ("elpy-goto-definition" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("elpy-company-backend" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("elpy-mode-hook" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0])
+  ("org-todo" .
+   [0 0 0 0 0 0 1 0])
+  ("org-todo-keyword-faces" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0])
+  (":foreground" .
+   [0 0 0 0 1 1 0 0 0 0 0])
+  (":weight" .
+   [0 0 0 0 1 0 0])
+  ("bold" .
+   [1 0 0 0])
+  ("db_data" .
+   [1 0 0 0 0 0 0])
+  ("cur" .
+   [2 0 0])
+  ("None" .
+   [0 0 0 2])
+  ("db" .
+   [2 0])
+  ("True" .
+   [0 0 1 0])
+  ("cursor" .
+   [1 0 0 0 0 0])
+  ("conn" .
+   [2 0 0 0])
+  ("count" .
+   [2 0 0 0 0])
+  ("object" .
+   [0 0 1 0 0 0])
+  ("org-src-fontify-natively" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("solarized" .
+   [0 0 0 1 0 0 0 0 0])
+  ("solarized-distinct-fringe-background" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("public" .
+   [0 0 1 0 0 0])
+  ("cls" .
+   [0 0 1])
+  ("val" .
+   [5 0 1])
+  ("TreeNode" .
+   [0 0 0 1 3 0 2 0])
+  ("root" .
+   [9 0 0 3])
+  ("ans" .
+   [6 0 0])
+  ("chooseRoot" .
+   [0 0 0 0 2 0 0 0 0 0])
+  ("sum" .
+   [5 0 0])
+  ("else" .
+   [0 0 0 2])
+  ("left" .
+   [1 0 1 0])
+  ("r" .
+   [1])
+  ("traverse" .
+   [0 0 1 1 0 0 0 0])
+  ("max(int , int)                   :int" .
+   [0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("Math" .
+   [0 0 1 0])
+  ("Integer" .
+   [0 0 0 0 3 0 0])
+  ("cache" .
+   [0 0 0 2 0])
+  ("company" .
+   [0 0 0 0 1 0 0])
+  ("company-backends" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("company-irony" .
+   [0 0 0 0 0 0 0 0 0 0 0 2 0])
+  ("hotels" .
+   [0 0 0 0 0 3])
+  ("colorsys" .
+   [0 0 0 1 0 0 0 0])
+  ("OrderedDict" .
+   [0 0 0 0 0 1 0 0 0 0 0])
+  ("in" .
+   [1 0])
+  ("str" .
+   [1 0 0])
+  ("square" .
+   [0 0 0 0 0 2])
+  ("hotel_order" .
+   [0 0 0 0 0 0 0 1 0 0 0])
+  ("eval" .
+   [1 0 0 0])
+  ("re" .
+   [1 0])
+  ("fl" .
+   [3 0])
+  ("flycheck-google-cpplint" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("warning" .
+   [2 0 0 0 0 0 0])
+  ("lam" .
+   [4 0 0])
+  ("point" .
+   [7 0 0 0 0])
+  ("org-element-map" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0 6 1])
+  ("tree" .
+   [1 0 0 0])
+  ("headline" .
+   [2 0 0 0 0 0 0 0])
+  (":todo" .
+   [2 0 0 0 0])
+  ("defun-prompt-regexp" .
+   [0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  (":" .
+   [1])
+  (":title" .
+   [2 0 0 0 0 0])
+  ("save" .
+   [1 0 0 0])
+  (":ID" .
+   [1 0 0])
+  ("find" .
+   [1 0 0 0])
+  ("my:task-org-" .
+   [0 0 0 0 0 0 0 0 0 0 0 1])
+  ("highlight-indentation" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("lines" .
+   [31 0 0 0 0])
+  ("strip" .
+   [11 0 0 0 0])
+  ("split" .
+   [13 0 2 0 2])
+  ("readlines" .
+   [1 0 0 0 1 0 0 0 8])
+  ("hotel_seq" .
+   [8 0 0 0 0 0 0 2 1])
+  ("rtid_dict" .
+   [1 0 0 0 1 0 0 0 0])
+  ("get" .
+   [14 0 0])
+  ("rtid" .
+   [10 0 0 0])
+  ("raw_input" .
+   [0 0 0 2 0 0 0 0 0])
+  ("raw_id" .
+   [2 0 0 1 0 0])
+  ("line" .
+   [25 0 0 0])
+  ("single_wrapper_room_category" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0])
+  ("room_category" .
+   [0 0 1 0 0 0 0 1 0 0 0 0 0])
+  ("single_wrapper_category_detail" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("keys" .
+   [2 0 3 1])
+  ("raw_names" .
+   [4 0 0 0 0 0 0 1 0])
+  ("name" .
+   [9 0 0 0])
+  ("result" .
+   [2 0 0 0 0 0])
+  ("argv" .
+   [3 0 0 3])
+  ("detail_info" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("data_obj" .
+   [1 0 0 0 0 0 0 0])
+  ("k_v_item" .
+   [1 0 0 0 0 0 0 0])
+  ("path_" .
+   [1 0 0 0 0])
+  ("bed_type_raws" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0])
+  ("meituan_category_detail_bed_type" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("meituan_rt_hotelseqs_file" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("open" .
+   [0 0 0 1])
+  ("crawl_meituan_hotel_id_file" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("hotel_seq_hotel_id_file" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("gitpushcurrent" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0])))

@@ -1,0 +1,1 @@
+(define-package "ox-reveal" "20161104.1052" "reveal.js Presentation BackEnd for Org Export Engine" '((org "20150330")) 'url: "https://github.com/yjwen/org-reveal" :keywords '(" outlines" " hypermedia" " slideshow" " presentation"))
