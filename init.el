@@ -119,8 +119,8 @@
 (electric-pair-mode 1)
 (add-to-list 'electric-pair-pairs '(?\{ . ?\}))
 
-;; (add-to-list 'default-frame-alist '(font . "Monaco-11"))
-(add-to-list 'default-frame-alist '(font . "Inconsolata-13"))
+(add-to-list 'default-frame-alist '(font . "Monaco-11"))
+;; (add-to-list 'default-frame-alist '(font . "Inconsolata-13"))
 
 (setq ns-pop-up-frames nil)
 
@@ -130,9 +130,9 @@
 (add-hook 'c-mode-common-hook 'google-make-newline-indent)
 
 
-(add-to-list 'load-path "~/.emacs.d/auto-java-complete")
-(require 'ajc-java-complete-config)
-(add-hook 'java-mode-hook 'ajc-java-complete-mode)
+;; (add-to-list 'load-path "~/.emacs.d/auto-java-complete")
+;; (require 'ajc-java-complete-config)
+;; (add-hook 'java-mode-hook 'ajc-java-complete-mode)
 ;; (add-hook 'find-file-hook 'ajc-4-jsp-find-file-hook)
 
 
@@ -203,8 +203,8 @@
 
 (setq use-dialog-box nil)
 
-(setq my:task-org-dir "/Users/luminglv/org")
-(setq my:task-org-file "/Users/luminglv/org/tasks.org")
+(setq my:task-org-dir "~/org")
+(setq my:task-org-file "~/org/tasks.org")
 
 (setq org-todo-keywords
       '((sequence "TODO(t!)" "INPROGRESS(p@)" "WAITING(w@)" "|" "DONE(d@)" "CANCEL(c@)")))
