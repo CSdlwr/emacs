@@ -12,7 +12,7 @@
 	     '("popkit" . "https://elpa.popkit.org/packages/"))
 (package-initialize)
 
-(setq initial-frame-alist '((width . 179) (height . 53))) ; Monaco-11
+;; (setq initial-frame-alist '((width . 179) (height . 53))) ; Monaco-11
 ;; (setq initial-frame-alist '((width . 179) (height . 49))) ; Inconsolata-13
 
 (require 'evil)
@@ -119,7 +119,7 @@
 (electric-pair-mode 1)
 (add-to-list 'electric-pair-pairs '(?\{ . ?\}))
 
-(add-to-list 'default-frame-alist '(font . "Monaco-11"))
+(add-to-list 'default-frame-alist '(font . "Monaco-12"))
 ;; (add-to-list 'default-frame-alist '(font . "Inconsolata-13"))
 
 (setq ns-pop-up-frames nil)
@@ -149,7 +149,8 @@
         (next-line))
     (comment-dwim arg)))
 
-(global-set-key (kbd "s-/") 'my:comment-dwim-line)
+;; (global-set-key (kbd "s-/") 'my:comment-dwim-line)
+ (global-set-key (kbd "M-/") 'my:comment-dwim-line)
 
 
 (defun my:javac-compile-currunt-buffer-file()
@@ -196,8 +197,11 @@
 
 (setq make-backup-files nil)
 
-(global-set-key (kbd "s-[") 'text-scale-decrease)
-(global-set-key (kbd "s-]") 'text-scale-increase)
+;; (global-set-key (kbd "s-[") 'text-scale-decrease)
+;; (global-set-key (kbd "s-]") 'text-scale-increase)
+
+(global-set-key (kbd "M-[") 'text-scale-decrease)
+(global-set-key (kbd "M-]") 'text-scale-increase)
 
 (setq echo-keystrokes 0.1)
 
@@ -456,6 +460,8 @@
 
 (add-hook 'prog-mode-hook 'highlight-indent-guides-mode)
 
+;; (server-start)
+(add-to-list 'default-frame-alist '(fullscreen . maximized))
 
 (provide 'init)
 ;;; init.el ends here

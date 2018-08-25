@@ -1,8 +1,8 @@
 
 ;; ----- smex-history -----
 (
- minibuffer-insert-file-name-at-point
  eval-buffer
+ minibuffer-insert-file-name-at-point
  load-theme
  color-theme-select
  package-list-packages
@@ -19,7 +19,7 @@
  (customize-apropos-faces . 2)
  (customize . 5)
  (linum-mode . 2)
- (eval-buffer . 86)
+ (eval-buffer . 87)
  (yay . 6)
  (eval-region . 2)
  (jdee-complete-in-line . 1)

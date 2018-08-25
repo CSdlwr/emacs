@@ -2,6 +2,7 @@
 
 ;; ----- ido-last-directory-list -----
 (
+ ("/Users/mac/" . ".emacs.d/")
  ("/Users/luminglv/Files/qunar/答辩/" . "2016-11/")
  ("/Users/luminglv/Desktop/rt_linkage/case-more/" . "env/")
  ("/Users/luminglv/Desktop/rt_linkage/" . "meituan/")
@@ -30,6 +31,9 @@
 
 ;; ----- ido-work-directory-list -----
 (
+ "/Users/mac/.emacs.d/"
+ "/Users/mac/"
+ "/Users/mac/Desktop/"
  "/Users/luminglv/Files/llm/markdown_note/"
  "/Users/luminglv/Files/llm/"
  "/Users/luminglv/.emacs.d/"
@@ -65,20 +69,26 @@
 
 ;; ----- ido-work-file-list -----
 (
+ "init.el"
+ "init.el.bak"
+ ".bashrc"
+ "房型变更.org"
+ "dts.org"
  "榜单优化1.org"
  "tmp_.org"
  "stock.org"
  "多次浏览促进下单.org"
  "resume.org"
- "spring-note.org"
- "user_feature_refactor.org"
- "init.el"
- "gbdt.org"
- "presentation-slide.org"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
+ ("/Users/mac/.emacs.d/" (23407 3418 303813 464000) "DartConfiguration.tcl" "auto-java-complete/" "jdee-server-dir/" "CMakeCache.txt" "elpa/" "Highlight-Indentation-for-Emacs/" "init.el.bak" "bookmarks" "irony/" "irony.bak/" "README.md" "init.el" "auto-save-list/" "ido.last~" "CMakeFiles/" "test" "abbrev_defs" "smex-items" "tutorial/" "init.el~" "ido.last" "snippets/" "ac-comphist.dat" "../" "./")
+
+ ("/Users/mac/" (23407 3410 870355 782000) ".viminfo" ".bash_history" ".myclirc" ".gitconfig" "Downloads/" "#.bashrc#" ".oh-my-zsh/" ".bash_profile" ".m2/" "Documents/" ".zcompdump-mac的MacBook Pro-5.3" ".npm/" ".Trash/" ".zcompdump-mac的MacBook Pro-5.0.8" "login-betac.sh" "yaduo/" "Dropbox/" ".zsh-update" "Applications/" ".vimrc" "Movies/" ".ssh/" "github/" "Public/" ".android/" "dev-login-139.129.233.205.sh" ".emacs.d/" ".ShadowsocksX-NG/" ".oracle_jre_usage/" ".lesshst" "Library/" "Desktop/" ".zsh_history" "dev-login-121.199.52.14.sh" "Pictures/" ".local/" "maven/" "org/" ".zshrc" ".bashrc" ".wget-hsts" "tomcat/" ".CFUserTextEncoding" ".mycli-history" ".DS_Store" "mat/" ".mycli.log" "Music/" ".config/" ".eclipse/" "../" "./")
+
+ ("/Users/mac/Desktop/" (23402 43939 515231 631000) "sql" "repair-room-params.json" "MemoryAnalyzer-1.8.0.20180604-macosx.cocoa.x86_64/" "dts.org" "330902_room.xlsx" "Navicat Premium_12.0.26_xclient.info.dmg" ".#dts.org" "sql-data/" "iterm2-send-zmodem.sh" "650102-room.xlsx" "dts.key" "diff.format" "绩效/" "iterm2-recv-zmodem.sh.1" "apache-tomcat-7.0.88/" "Postman-osx-6.1.2.zip" "320113-folio.xlsx" "ShadowsocksX-NG.1.7.1.zip" "custins4439143_1531188341902.csv.zip" "Git的安装及使用.ppt" "apache-tomcat-8.5.31-windows-x64.zip" "apache-tomcat-8.5.31.tar" "iterm2-recv-zmodem.sh" "folio.numbers" "galaxy-diff-log" "data.csv" "CMBCEdit.pkg" "CRS系统一期需求6.8.docx" "apache-tomcat-7.0.88.zip" "diff" "Atour-CodeStyle-1.0.xml" "#dts.org#" "iterm2-send-zmodem.sh.1" "pip-6.0.8.tar.gz" "MemoryAnalyzer-1.8.0.20180604-macosx.cocoa.x86_64.zip" "repair-room.json" ".localized" "370202_r_Room.xlsx" "settings.xml" "ShadowsocksX-NG.app/" ".DS_Store" "a_Trans.sql" "WechatIMG2.jpeg" "几木学堂培训系统操作说明-新伙伴.pdf" "pms-repair-chain.format" "个人会员预付单.docx" "pms-repair-chain" "tmp.txt" "../" "./")
+
  ("/Users/luminglv/Files/llm/markdown_note/" (22892 13187 0 0) "跨城搜索无结果_国际.org~" "跨城搜索无结果_国际.org" "跨城搜索无结果_国际.html~" "跨城搜索无结果_国际.html" "浏览历史 && 酒店收藏 优化项目.md" "榜单优化1.org" "榜单优化.org" "榜单优化.md" "收益.md" "推广系统梳理.md" "推广位策略优化.md" "报价qps放大.md" "异地空搜排序策略.org" "客栈频道RANK民宿增加权重.org" "实时筛选model不理想原因分析.md" "实时特征二期.md" "多次浏览促进下单.org" "user_feature_refactor.org" "travel_tag_update.org" "tmp_.org" "stock.org" "spring-note.org" "search request隔离二期.md" "rt_linkage.org" "reveal-export-test.org" "reveal-export-test.html" "resume_llm.md" "resume.md" "rank-sort-img-feature.org" "rank-search_refactor.md" "rank-search-switch.org~" "rank-search-switch.org" "rank-search-sort-feature-summerize.org~" "rank-search-sort-feature-summerize.org" "rank-search-performance-analyse.org~" "rank-search-performance-analyse.org_archive" "rank-search-performance-analyse.org" "rank-search-performance-analyse.html~" "rank-search-performance-analyse.html" "rank-search-api-key.org" "promote_presentation.org~" "promote_presentation.org" "promote_presentation.html~" "promote_presentation.html" "presentation_outline.tex" "presentation_outline.org~" "presentation_outline.org" "presentation_outline.html~" "presentation_outline.html" "position_area_guide_improvement.org" "openCV 银行卡.md" "mobile-rank-search中的一些关键监控.md" "llm-qunar-work-handover.org~" "llm-qunar-work-handover.org" "jvm.org~" "jvm.org" "java-concurrency.org" "hprice代码.md" "hprice-note.org" "elisp_note.org~" "elisp_note.org" "elisp_note.html~" "elisp_note.html" "DZS-9725_特金银推广位优化.org" "DZS-9721-galaxy接口迁移2期.org" "discover_rank_common_dependency.org~" "discover_rank_common_dependency.org" "discover_host_hotel处理逻辑.org~" "discover_host_hotel处理逻辑.org" "bargin_price_filter_improve.org~" "bargin_price_filter_improve.org" "bangdan-special-stragety.org" "2016-08-03_ml_note.md" ".DS_Store" "#榜单优化.org#" "#tmp_.org#" "../" "./")
 
  ("/Users/luminglv/" (22888 32740 0 0) "ycm_build/" "tt.py" "tt/" "tasks/" "reveal-js/" "q/" "PycharmProjects/" "Public/" "Pictures/" "org/" "openCV/" "Music/" "Movies/" "mbox" "Library/" "lg.sh" "jq/" "jprofiler_images/" "java_error_in_idea_28652.log" "github/" "Files/" "Dropbox/" "Downloads/" "Documents/" "Desktop/" "cLion/" "Calibre 书库/" "Applications/" ".zshrc" ".zsh_history" ".zsh-update" ".zcompdump-luming.lv的MacBook Pro-5.2" ".zcompdump-luming.lv的MacBook Pro-5.0.8" ".zcompdump-luming.lv的MacBook Pro-5.0.5" ".vnc/" ".vimrc" ".viminfo" ".vim/" ".Trash/" ".subversion/" ".ssh/" ".srecode/" ".sonarlint/" ".semanticdb/" ".scala_history" ".python27_compiled/" ".PyCharm50/" ".PyCharm40/" ".oracle_jre_usage/" ".oh-my-zsh/" ".netbeans-derby/" ".matplotlib/" ".m2/" ".local/" ".lesshst" ".kdiff3rc" ".jprofiler9/" ".java_base.tag" ".IntelliJIdea15/" ".IntelliJIdea14/" ".ideaLibSources/" ".httpie/" ".gradle/" ".gitconfig" ".emacs.d/" ".eclipse/" ".dubbo/" ".DS_Store" ".dropbox/" ".cups/" ".config/" ".CFUserTextEncoding" ".CF89AA64" ".cache/" ".bashrc~" ".bashrc" ".bash_profile.macports-saved_2015-06-19_at_23:59:23" ".bash_profile" ".bash_history" ".atom/" ".android/" "#.bashrc#" "../" "./")
